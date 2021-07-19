@@ -1,5 +1,5 @@
 # LTE-Datasets
-50GB LTE datasets of raw signals collect in shielding box
+40GB LTE datasets of raw signals collect in shielding box
 
 ## Acknowledgement
 
