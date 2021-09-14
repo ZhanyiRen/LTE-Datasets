@@ -1,9 +1,11 @@
 # LTE-Datasets
-40GB LTE datasets of raw signals collect in shielding box.
+40GB LTE dataset of raw signals collect in shielding box.
+This repository contains the source dataset of LTE raw signals. All the dataset is available in https://gas.graviti.cn/dataset/pikachu/LTE_Dataset.
 
-## Acknowledgement
-This repository contains the source dataset of LTE raw signals. All the dataset is available in https://gas.graviti.cn/dataset/iwc-datasets. 
 
 ## Description
 
 ## Citing This Paper
+
+## Acknowledgement
+If you have any problems, please contact us with ren12852@stu.xjtu.edu.cn.
