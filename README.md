@@ -18,15 +18,13 @@ The configuration of the collection base station is frequency division duplexing
 
 
 ## Citing This Paper
-@INPROCEEDINGS{Ren2204:Deep,
-AUTHOR="Zhanyi Ren and Pinyi Ren and Tiantian Zhang",
-TITLE="Deep {RF} Device Fingerprinting by {Semi-Supervised} Learning with Meta
-Pseudo {Time-Frequency} Labels",
-BOOKTITLE="2022 IEEE Wireless Communications and Networking Conference (WCNC) (IEEE
-WCNC 2022)",
-ADDRESS="Austin, USA",
-MONTH=apr,
-YEAR=2022
+@INPROCEEDINGS{Ren2204:Deep,  
+AUTHOR="Zhanyi Ren and Pinyi Ren and Tiantian Zhang",  
+TITLE="Deep {RF} Device Fingerprinting by {Semi-Supervised} Learning with Meta Pseudo {Time-Frequency} Labels",  
+BOOKTITLE="2022 IEEE Wireless Communications and Networking Conference (WCNC) (IEEE WCNC 2022)",  
+ADDRESS="Austin, USA",  
+MONTH=apr,  
+YEAR=2022  
 }
 
 ## Acknowledgement
