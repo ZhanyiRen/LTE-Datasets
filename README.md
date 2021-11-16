@@ -3,7 +3,7 @@
 
 ## How to get the dataset
 This repository contains the source dataset of LTE raw signals. All the dataset is available in https://gas.graviti.cn/dataset/pikachu/LTE_Dataset.
-Please email ren12852@stu.xjtu.eddu.cn for Accesskey.
+Please email ren12852@stu.xjtu.edu.cn for Accesskey.
 
 Step1: Run get_data_urls.py for the dictionary including each segment, and their data url;    
 Step2: Copy each data_url to browser and download automatically. Besides, you can download using API or spider;  
